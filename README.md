@@ -12,7 +12,7 @@
 // @match       https://student.iclicker.com/*
 // @grant       none
 // @version     1.0
-// @author      hunterbidenslaptop
+// @author      joe
 // @description A userscript that allows for the following things for an iClicker Session: spoof geolocation to instructor's, auto joins class, auto answer poll q's with random answers.
 // ==/UserScript==
 const MCQ_CHOICES = ["a", "b", "c", "d", "e"]
