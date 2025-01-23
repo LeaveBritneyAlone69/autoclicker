@@ -30,6 +30,7 @@ waitForAngular()
 ```
 
 ### 3) Open Iclicker for the class you're in. You will know it's working if it selects an answer within 5 seconds of "seeing" a question. 
+### 4) Check in periodically to make sure IClicker isn't frozen. It works best if Iclicker is in its own browser window. 
 
 
  
