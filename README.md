@@ -3,7 +3,7 @@
 
 ## Steps to Install
 ### 1) Get [ViolentMonkey](https://violentmonkey.github.io/) Extension for Chrome, Edge, or Firefox 
-### 2) Following the guide in the violentmonkey website, create a new extension and copy the code below in. Be sure to save it. 
+### 2) Following the [guide](https://violentmonkey.github.io/guide/creating-a-userscript/) on the violentmonkey website, create a new extension and copy the code below in. Be sure to save it. 
 
 ```javascript
 // ==UserScript==
